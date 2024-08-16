@@ -1,13 +1,13 @@
 ```ruby
 System.out.println("Olá, bem-vindo(a)!"); 👋
 ```
-_______________________________________________________________________________
+______________________________________________________________________________
 
-_-->Estudante de Engenharia de Computação na UTFPR_
+- <kbd>_Estudante de Engenharia de Computação na UTFPR_
 
-_-->Bolsista voluntária de Iniciação Científica e de Extensão em Astronomia🔭_
+- <kbd>_Bolsista voluntária de Iniciação Científica e de Extensão em Astronomia 🔭_
 
-_-->Atuante em Iniciação Científica e de Extensão a robótica movel ⚡_
+- <kbd>_Atuante em Iniciação Científica e de Extensão a robótica movel ⚡_</kbd>
 
 _______________________________________________________________________________
 
