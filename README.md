@@ -3,7 +3,7 @@ System.out.println("Olá, bem-vindo(a)!"); 👋
 ```
 _______________________________________________________________________________
 
-_-->Estudante de Engenharia de Computação_
+_-->Estudante de Engenharia de Computação na UTFPR_
 
 _-->Bolsista voluntária de Iniciação Científica e de Extensão em Astronomia🔭_
 
