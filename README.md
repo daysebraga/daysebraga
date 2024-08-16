@@ -1,4 +1,7 @@
-### System.out.println("Olá, bem-vindo(a)!"); 👋
+```ruby
+System.out.println("Olá, bem-vindo(a)!"); 👋
+```
+_______________________________________________________________________________
 
 _-->Estudante de Engenharia de Computação_
 
@@ -6,11 +9,10 @@ _-->Bolsista voluntária de Iniciação Científica e de Extensão em Astronomia
 
 _-->Atuante em Iniciação Científica e de Extensão a robótica movel ⚡_
 
-__`Conhecimentos sendo aprimorados em:`__
+_______________________________________________________________________________
 
-```mermaid
-graph TD;
-    C-->Python;
-    Python-->Java;
-    Java-->C;
+__`Conhecimentos sendo aprimorados em:`__
+```ruby
+    C, Python & Java;
 ```
+
