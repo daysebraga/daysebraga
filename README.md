@@ -5,7 +5,7 @@ ______________________________________________________________________________
 
 - <kbd>_Estudante de Engenharia de Computação na UTFPR_
 
-- <kbd>_Bolsista voluntária de Iniciação Científica e de Extensão em Astronomia 🔭_
+- <kbd>_Bolsista de Iniciação Científica e de Extensão em Astronomia 🔭_
 
 - <kbd>_Atuante em Iniciação Científica e de Extensão a robótica movel ⚡_</kbd>
 
