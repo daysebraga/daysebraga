@@ -13,6 +13,6 @@ _______________________________________________________________________________
 
 __`Conhecimentos sendo aprimorados em:`__
 ```ruby
-    C, Python, Java & c++;
+    C, Python, Java & C++;
 ```
 
