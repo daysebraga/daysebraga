@@ -8,9 +8,9 @@ ______________________________________________________________________________
 
 - <kbd>_Estudante de Engenharia de Computação na UTFPR_
 
-- <kbd>_Bolsista de Iniciação de Extensão em Astronomia 🔭_
+- <kbd>_Bolsista em Iniciação de Extensão em Astronomia 🔭_
 
-- <kbd>_Atuante em Iniciação de Extensão a robótica movel ⚡_</kbd>
+- <kbd>_Atuante em Iniciação de Extensão a Robótica Móvel ⚡_</kbd>
 
 <html>
     <img  align="left" height="80" width="80" src="https://pa1.narvii.com/6552/fb4b8dea24e045d3324bd1eb959c2a566ea6c3f5_hq.gif"></img>
